@@ -82,6 +82,9 @@ section {
 .reset-btn {
 	display: flex;
 }
+.reset-btn p {
+	color: #f00;
+}
 .reset-btn button {
 	margin-left: auto;
 	padding: 0.5rem 1rem;
